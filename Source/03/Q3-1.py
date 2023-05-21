@@ -11,3 +11,10 @@ if month >= 9 and month <= 11 :
 
 if month == 12 or month == 1 or month == 2 :
     print('%d월은 겨울입니다.' % month)
+
+# if
+  elif
+  elif
+  elif
+  else
+  
